@@ -78,7 +78,7 @@ Si te interesa la tecnología, el desarrollo full stack, o simplemente quieres c
 
 <br>
 
-<img src="img/gif01.gif" width="224">
+<img src="img/gif01.gif" width="280">
 <img src="img/gif02.gif" width="500">
 
 </div>
