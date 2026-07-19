@@ -12,11 +12,6 @@ Soy Darío Sebastián Rivera Sáenz, de Tunja, Boyacá, Colombia. Me apasiona co
 
 Últimamente me he metido de lleno en el mundo de la IA y la automatización, explorando LangChain, LangGraph y n8n — construyendo desde chatbots con integraciones de mensajería hasta flujos de trabajo automatizados.
 
-## 🤝 Conectemos
-Si te interesa la tecnología, el desarrollo full stack, o simplemente quieres charlar sobre proyectos, ¡con gusto conectamos!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dario-rivera-3a674636a/)
-
 </div>
 
 <h1>Tecnologías conocidas👨🏻‍💻</h1>
@@ -57,6 +52,25 @@ Si te interesa la tecnología, el desarrollo full stack, o simplemente quieres c
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+<br>
+
+<div align="left">
+
+## 🤝 Conectemos
+Si te interesa la tecnología, el desarrollo full stack, o simplemente quieres charlar sobre proyectos, ¡con gusto conectamos!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dario-rivera-3a674636a/)
+
+</div>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarioRiverah/DarioRiverah/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DarioRiverah/DarioRiverah/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DarioRiverah/DarioRiverah/output/github-contribution-grid-snake.svg">
+</picture>
 
 <br>
 
